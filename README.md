@@ -1,4 +1,4 @@
-![Gamescard](https://github.com/Supriya252002/Gaming_website_template/assets/116082297/c3e54076-688e-478e-9712-389804693f2c)# Gaming Website Template
+### Gaming Website Template 
 
 Welcome to the Gaming Website Template repository! 
 
