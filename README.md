@@ -30,9 +30,6 @@ Explore our curated collection of new games with captivating GIF previews. Immer
 
 # Footer
 
-Navigate through our gaming world effortlessly with quick links, stay updated with our latest news, and connect with us on social media to be a part of our gaming community.
-This section contain game designs 
-
 ![footer](https://github.com/Supriya252002/Gaming_website_template/assets/116082297/34f918fa-8149-4fe2-a015-f78e758d0cf7)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
