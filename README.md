@@ -1,4 +1,4 @@
-### Gaming Website Template 
+# Gaming Website Template 
 
 Welcome to the Gaming Website Template repository! 
 
