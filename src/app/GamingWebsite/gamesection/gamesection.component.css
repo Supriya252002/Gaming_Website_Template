@@ -8,6 +8,10 @@
     color: #fff;
 }
 
+.card-subheading {
+    font-size: 1.5rem;
+}
+
 .card-button {
     margin-top: 3%;
 }
@@ -30,6 +34,7 @@
     border: 1px solid blueviolet;
     border-radius: 20px;
 }
+
 #btn-btn,
 #btn-btn1 {
     padding: 10px 20px;
@@ -42,4 +47,9 @@
     color: #fff;
     background-color: rgb(248, 151, 66);
     margin: 0 10px;
+}
+
+.gradient-text {
+    font-size: 40px;
+    color: orange;
 }

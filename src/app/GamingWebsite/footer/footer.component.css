@@ -12,6 +12,7 @@
 
 .footer-title-content p {
     color: #cccccc;
+    font-size: 1.2rem;
 }
 
 .footer-user-links {
@@ -24,6 +25,7 @@
 
 .footer-user-links li {
     list-style: none;
+    font-size: 1.2rem;
     margin: 5px 0;
     color: #cccccc;
 }
