@@ -1,0 +1,45 @@
+.card-header {
+    margin-top: 5%;
+    line-height: 1.5rem;
+}
+
+.card-header h1,
+.card-subheading {
+    color: #fff;
+}
+
+.card-button {
+    margin-top: 3%;
+}
+
+.card-button button {
+    margin: 0 5px;
+}
+
+.main-container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    box-shadow: inset;
+    width: 80%;
+    margin: 0 auto;
+    height: auto;
+    padding: 2rem;
+    backdrop-filter: blur(4px);
+    border: 1px solid blueviolet;
+    border-radius: 20px;
+}
+#btn-btn,
+#btn-btn1 {
+    padding: 10px 20px;
+    border: none;
+    transform: skewX(-20deg);
+    margin: 10px 5px;
+}
+
+#btn-btn1 {
+    color: #fff;
+    background-color: rgb(248, 151, 66);
+    margin: 0 10px;
+}

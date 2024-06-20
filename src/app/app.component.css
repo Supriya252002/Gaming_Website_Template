@@ -1,0 +1,9 @@
+.dash{
+    display: flex;
+}
+.graphs {
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap; /* This ensures that the cards wrap to the next line if there's not enough space */
+}
+

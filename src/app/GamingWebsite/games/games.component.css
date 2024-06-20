@@ -1,0 +1,101 @@
+.games-card {
+    max-width: 100%;
+
+}
+.game-card-heading {
+    color: #fff;
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.main-card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* margin: 16px; */
+    width: 300px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.card-image-container {
+    position: relative;
+}
+
+.card-image-container img {
+    width: 100%;
+    height: auto;
+}
+
+.card-content {
+    padding: 16px;
+}
+
+.card-content h4 {
+    margin: 0 0 10px;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.inner-content {
+    display: flex;
+    align-items: center;
+}
+
+.inner-content img {
+    height: 10%;
+    width: 20%;
+    border-radius: 50%;
+}
+
+.inner-text {
+    flex: 1;
+}
+
+.inner-text h2 {
+    margin: 0;
+    font-size: 1.2em;
+    color: #555;
+    padding-left: 5%;
+}
+
+.inner-text p {
+    margin: 5px 0 0;
+    font-size: 0.9em;
+    color: #777;
+    padding: 0 0 0 5%;
+}
+
+hr {
+    color: rgb(127, 136, 255);
+}
+
+@media screen and (min-width: 768px) {
+    .nav-items {
+        justify-content: flex-end;
+    }
+
+    .nav-items li {
+        margin: 0;
+    }
+
+    .main-container {
+        flex-direction: row;
+    }
+
+    .left {
+        max-width: 50%;
+    }
+
+    .right {
+        max-width: 50%;
+    }
+}
